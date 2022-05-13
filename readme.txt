@@ -45,11 +45,6 @@ License: CC0 1.0 Universal (CC0 1.0)
 License URL: https://pxhere.com/en/license
 Source: https://pxhere.com/en/photo/1026774
 
-* Image for theme screenshot three, Copyright Pxhere
-License: CC0 1.0 Universal (CC0 1.0)
-License URL: https://pxhere.com/en/license
-Source: https://pxhere.com/en/photo/1203078
-
 == Credits ==
 
 * Based on Underscores https://underscores.me/, (C) 2012-2020 Automattic, Inc., [GPLv2 or later](https://www.gnu.org/licenses/gpl-2.0.html)
